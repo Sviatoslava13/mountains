@@ -2,10 +2,10 @@
   "name": "mountains",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Sviatoslava13.github.io/mountains",
+  "homepage": "https://sviatoslava13.github.io/mountains",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /mountains/"
   },
   "repository": {
     "type": "git",
